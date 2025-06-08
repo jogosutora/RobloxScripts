@@ -1052,10 +1052,4 @@ _G.PlayerBoxESP = {
         print("Player Box ESP: Color updated")
     end
 }
-
--- Usage examples:
--- _G.PlayerBoxESP.toggle() -- Toggle ESP on/off
--- _G.PlayerBoxESP.enable() -- Enable ESP
--- _G.PlayerBoxESP.disable() -- Disable ESP
--- _G.PlayerBoxESP.setColor(Color3.fromRGB(255, 0, 0)) -- Change to red
--- _G.PlayerBoxESP.cleanup() -- Clean up all ESP objects
+-- end ~1055 lines
